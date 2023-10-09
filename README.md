@@ -1,2 +1,3 @@
-# Dashboard-data-analyst
-Projeto de dashboard do boot camp DIO 
+# Dashboard para análise de dados
+
+
